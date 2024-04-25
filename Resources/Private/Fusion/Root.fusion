@@ -1,0 +1,4 @@
+prototype(Neos.Neos:Page) {
+    @process.removeLocalhost = ${String.replace(value, 'https://localhost:3000', '')}
+    @process.removeLocalhost.@position = 'end 99999999999'
+}
