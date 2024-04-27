@@ -1,5 +1,5 @@
 {
-    "name": "litespeed/browsersync",
+    "name": "lspeed/browsersync",
     "type": "neos-litespeed",
     "license": "GPL-3.0-or-later",
     "description": "Package for Browsersync integration for easier development with ddev",
