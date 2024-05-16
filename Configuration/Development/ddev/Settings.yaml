@@ -2,4 +2,4 @@ Neos:
   Neos:
     fusion:
       autoInclude:
-        Litespeed.Browsersync: true
+        Litefyr.Browsersync: true

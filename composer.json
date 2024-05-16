@@ -1,6 +1,6 @@
 {
-    "name": "lspeed/browsersync",
-    "type": "neos-litespeed",
+    "name": "litefyr/browsersync",
+    "type": "neos-litefyr",
     "license": "GPL-3.0-or-later",
     "description": "Package for Browsersync integration for easier development with ddev",
     "require": {
@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Litespeed\\Browsersync\\": "Classes/"
+            "Litefyr\\Browsersync\\": "Classes/"
         }
     },
     "keywords": [
         "flow",
         "neos",
-        "litespeed"
+        "litefyr"
     ]
 }

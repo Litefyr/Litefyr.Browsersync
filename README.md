@@ -5,8 +5,8 @@ This pacacke helps you to run your Neos installation with [ddev-browsersync]. It
 
 ## Installation
 
-This package is available via [packagist]. Run `composer require lspeed/browsersync --no-update` in your
-`Litespeed.Distribution` package. After that, run `composer update` in your root directory.
+This package is available via [packagist]. Run `composer require litefyr/browsersync --no-update` in your
+`Litefyr.Distribution` package. After that, run `composer update` in your root directory.
 
-[packagist]: https://packagist.org/packages/lspeed/browsersync
+[packagist]: https://packagist.org/packages/litefyr/browsersync
 [ddev-browsersync]: https://github.com/ddev/ddev-browsersync
